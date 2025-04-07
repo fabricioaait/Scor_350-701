@@ -2,5 +2,10 @@ Glossary Summary
 
 802.1Q - 
 
-802.1X -
+802.1X - 
+
+AAA - Authentication, Authorization, Accounting
+
+ACL(Access Control List) - DAC-Based, apply to objects(files, routers, firewalls). Protect networks from outside access. Variable ACL criteria, five-tuple for networks.
+
 
