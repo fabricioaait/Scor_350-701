@@ -8,4 +8,6 @@ AAA - Authentication, Authorization, Accounting
 
 ACL(Access Control List) - DAC-Based, apply to objects(files, routers, firewalls). Protect networks from outside access. Variable ACL criteria, five-tuple for networks.
 
+ACM(Access Control Matrix) - 
+
 
