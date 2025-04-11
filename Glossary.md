@@ -23,5 +23,15 @@ ABAC(Attribute-Based Access Control) - Access control model based on attributes 
 
 Autehntication Server - Or PdP(Policy Decision Point) determines who able to do what.
 
-Authenticator - 
+Authenticator - PeP(Policy Enforcement Point) an entity facilitates authentication of other devices like wifi routers and switches. 
+
+Authorization - Process of assigning permissions to an authenticated user. 
+
+BeyondCorp - Google's Zero Trust implementation. Shift access control from network perimeter to devices and users.
+
+Black Hat Hackers - Bad hackers, criminals. 
+
+Block Cipher - 
+
+
 
