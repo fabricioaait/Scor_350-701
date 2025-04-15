@@ -31,7 +31,13 @@ BeyondCorp - Google's Zero Trust implementation. Shift access control from netwo
 
 Black Hat Hackers - Bad hackers, criminals. 
 
-Block Cipher - 
+Block Cipher - Symmetric Key applied to a block(group of bits). Same key to encrypt & decrypt.
+
+BPDU Guard - Cisco Switch feature to block attacks and loops on network.
+
+Capability Table - 
+
+
 
 
 
