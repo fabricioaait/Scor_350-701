@@ -35,7 +35,11 @@ Block Cipher - Symmetric Key applied to a block(group of bits). Same key to encr
 
 BPDU Guard - Cisco Switch feature to block attacks and loops on network.
 
-Capability Table - 
+Capability Table - Subject oriented table, who can access what. 
+
+CDP(Cisco Discovery Protocol) - Technology for self discovery os networks devices and information exchange in the network. Periodically advertise info on a multi-cast address. 
+
+
 
 
 
