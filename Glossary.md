@@ -45,7 +45,8 @@ Cisco FDM(Firepower Device Manager) - Manages small FTD deployments. Access FDM 
 
 Cisco FMC(Firepower Management Center) - Manages FTD, Firepower and ASA modules. Formerly known as FireSIGHT. 
 
-CASB(Cloud Access Security Broker) - 
+CASB(Cloud Access Security Broker) - Provides visibility and complaince checks, protects against data misuse and exfiltration, provides protection against malware.
+
 
 
 
