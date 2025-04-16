@@ -39,7 +39,13 @@ Capability Table - Subject oriented table, who can access what.
 
 CDP(Cisco Discovery Protocol) - Technology for self discovery os networks devices and information exchange in the network. Periodically advertise info on a multi-cast address. 
 
+Certificate Authority - Central system that generates and issues certificates to systems & users. 
 
+Cisco FDM(Firepower Device Manager) - Manages small FTD deployments. Access FDM pointing browser to FDM ip. 
+
+Cisco FMC(Firepower Management Center) - Manages FTD, Firepower and ASA modules. Formerly known as FireSIGHT. 
+
+CASB(Cloud Access Security Broker) - 
 
 
 
