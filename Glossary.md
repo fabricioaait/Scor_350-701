@@ -47,6 +47,9 @@ Cisco FMC(Firepower Management Center) - Manages FTD, Firepower and ASA modules.
 
 CASB(Cloud Access Security Broker) - Provides visibility and complaince checks, protects against data misuse and exfiltration, provides protection against malware.
 
+CD(Continuous Delivery) - 
+
+
 
 
 
